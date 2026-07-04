@@ -44,4 +44,5 @@ modules:
         url: https://github.com/besoeasy/gupt.git
         tag: '2026.06.30'
         commit: 3042a332c88240bd2152830f4bcc92b2a48cec9d
+        disable-submodules: true
       - generated-sources.json
